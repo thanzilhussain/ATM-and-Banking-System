@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225240169
+# Name:Thanzil Hussain A
+# Date:5-11-2026
 
 
 # AIM:
@@ -31,6 +31,8 @@ To develop the ATM and Banking System using Star UML
 
 # UML DIAGRAMS
 
+<img width="1261" height="968" alt="Screenshot 2026-10-13 141416" src="https://github.com/user-attachments/assets/13fb8ee5-bf15-4be2-88e3-28882c73f583" />
+
 # USE CASE DIAGRAM
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
@@ -38,6 +40,8 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+<img width="1187" height="945" alt="Screenshot 2026-10-26 105148" src="https://github.com/user-attachments/assets/fab4c054-c556-4285-8ea7-45c214482546" />
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
